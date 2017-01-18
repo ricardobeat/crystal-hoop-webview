@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  hoop:
+    github: hoopcr/hoop
+    commit: 6f8f8dfd002fb179ccfb62b22895c12603e1717e
+

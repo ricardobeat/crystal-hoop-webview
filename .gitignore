@@ -1,0 +1,9 @@
+.DS_Store
+.crystal
+.shards
+*.app
+*.nib
+*.log
+.app
+app
+lib/

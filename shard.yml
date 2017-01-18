@@ -1,0 +1,19 @@
+name: croapp
+version: 0.1.0
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of croapp
+
+dependencies:
+  hoop:
+    github: hoopcr/hoop
+    version: "*"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock
+
+# license: MIT
